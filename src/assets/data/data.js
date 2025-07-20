@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Hatim Amirul',
+            child: 'Putra Bpk Imam',
+            father: 'Imam Fatoni',
+            mother: 'Mindarin',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Ummu Abiha Al Zahra',
+            child: 'Putri Bpk Ulul Albab',
+            father: 'Ulul Albab',
+            mother: 'Gandis',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,7 +22,7 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
+            year: '2025',
             month: 'November',
             date: '14',
             day: 'Kamis',
@@ -32,7 +32,7 @@ export const data = {
             }
         },
         reception: {
-            year: '2024',
+            year: '2025',
             month: 'November',
             date: '14',
             day: 'Kamis',
@@ -41,7 +41,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Dsn. Kolak Utara, RT 000/ RW 000, Desa.Wonorejo, Kec.Ngadiluwih, Kab.Kediri, Jawa Timur (64171)'
     },
 
     link: {
@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Hatim Amirul Mutaqin',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '0333208706'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Ummu Abiha Al Zahra',
             icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
