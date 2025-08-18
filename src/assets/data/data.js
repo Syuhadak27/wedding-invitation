@@ -21,7 +21,7 @@ export const data = {
     },
 
     time: {
-        marriage: {
+        reception: {
             year: '2025',
             month: 'Juni',
             date: '13',
@@ -31,7 +31,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        reception: {
+        marriage: {
             year: '2025',
             month: 'Oktober',
             date: '5',
