@@ -2,16 +2,16 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
+            name: 'Hidayat Khoirul Umam',
+            child: 'Putra ke satu',
             father: 'Lorem',
             mother: 'Ipsum',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
+            name: 'Kuni Afiyah',
+            child: 'Putri ke satu',
             father: 'Lorem',
             mother: 'Ipsum',
             image: './src/assets/images/cewe.png'
