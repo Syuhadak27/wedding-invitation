@@ -27,7 +27,7 @@ export const data = {
             date: '13',
             day: 'Jumat',
             hours: {
-                start: '02.00',
+                start: '14.00',
                 finish: 'Selesai'
             }
         },
@@ -41,7 +41,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Dusun Sampangan RT07/RW01, Desa Bumirejo, Kec.Kaliangkrik, Kab.Magelang'
     },
 
     link: {
