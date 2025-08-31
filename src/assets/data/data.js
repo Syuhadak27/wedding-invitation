@@ -4,16 +4,16 @@ export const data = {
             id: 1,
             name: 'Hidayat Khoirul Umam',
             child: 'Putra Pertama',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            father: 'Abdul Ghofur',
+            mother: 'Sakdiyah',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
             name: 'Kuni Afiyah',
             child: 'Putri Pertama',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            father: 'Solihin',
+            mother: 'Siti Mukaromah',
             image: './src/assets/images/cewe.png'
         },
 
