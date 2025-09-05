@@ -7,7 +7,7 @@ footer {
 
 footer h2 {
     font-size: var(--fontSize-heading-base);
-    font-family: var(--sacramento);
+    font-family: var(--font-heading);
     font-weight: 400;
     margin-top: 1rem;
 }
