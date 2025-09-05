@@ -6,9 +6,7 @@
     --fontSize-heading-base: 2.8rem;
     --fontSize-text-base: 1rem;
 
-    --font-body: 'Poppins', sans-serif;
-    --font-heading: 'Playfair Display', serif;
-    --font-accent: 'Sacramento', cursive;
+    --sacramento: 'Sacramento', cursive;
     --arabic: 'Noto Naskh Arabic', serif;
 
     --shadow-md: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -30,7 +28,7 @@ html {
 }
 
 body {
-    font-family: var(--font-body);
+    font-family: 'Josefin Sans', sans-serif;
     color: var(--primary-font-color);
     overflow-y: hidden;
 }

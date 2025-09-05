@@ -31,7 +31,7 @@
 
 .welcome h2 {
     font-size: 2.4rem;
-    font-family: var(--font-heading);
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
 }
 
@@ -54,7 +54,7 @@
 
 .welcome figure figcaption {
     font-size: var(--fontSize-heading-base);
-    font-family: var(--font-accent);
+    font-family: var(--sacramento);
     font-weight: 400;
     margin-top: 0.5rem;
 }
