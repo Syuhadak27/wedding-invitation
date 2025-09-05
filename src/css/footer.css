@@ -7,7 +7,7 @@ footer {
 
 footer h2 {
     font-size: var(--fontSize-heading-base);
-    font-family: var(--font-heading);
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     margin-top: 1rem;
 }
