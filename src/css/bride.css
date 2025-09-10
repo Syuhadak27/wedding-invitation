@@ -14,7 +14,6 @@
 
 .bride h3 {
     font-size: var(--fontSize-heading-base);
-    font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     margin: 1rem 0;
 }
@@ -49,12 +48,12 @@
 .bride .bride_couple li figure figcaption {
     font-size: var(--fontSize-heading-base);
     margin: 1rem 0;
-    font-family: var(--sacramento);
+    font-family: var(--display-font);
 }
 
 .bride .bride_couple span {
     font-size: 3.4rem;
-    font-family: var(--sacramento);
+    font-family: var(--display-font);
     font-weight: 400;
     margin-top: 1rem;
 }
@@ -102,7 +101,6 @@
 
 .hadist h2 {
     font-size: var(--fontSize-heading-base);
-    font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     margin-bottom: 1rem;
 }
