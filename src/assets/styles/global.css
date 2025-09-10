@@ -2,11 +2,11 @@
     --primary-font-color: '#212529';
     --bg-color: #f8f9fa;
 
-    --fontSize-heading-lg: 3.2rem;
-    --fontSize-heading-base: 3rem;
-    --fontSize-text-base: 1.1rem;
+    --fontSize-heading-lg: 3rem;
+    --fontSize-heading-base: 2.8rem;
+    --fontSize-text-base: 1.2rem;
 
-    --display-font: 'Great Vibes', cursive;
+    --display-font: 'Dancing Script', cursive;
     --arabic: 'Noto Naskh Arabic', serif;
 
     --shadow-md: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -28,7 +28,7 @@ html {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     color: var(--primary-font-color);
     overflow-y: hidden;
 }
@@ -42,7 +42,8 @@ body::-webkit-scrollbar {
 }
 
 p {
-    line-height: 1.7rem;
+    line-height: 1.8rem;
+    font-size: var(--fontSize-text-base);
 }
 
 .audio button {

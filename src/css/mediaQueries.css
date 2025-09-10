@@ -1,6 +1,31 @@
 @media screen and (max-width: 768px) {
+    p {
+        font-size: 1rem;
+        line-height: 1.6rem;
+    }
+
     header nav {
         display: flex;
+    }
+
+    .welcome h2 {
+        font-size: 1.8rem;
+    }
+
+    .welcome figure figcaption {
+        font-size: 2.2rem;
+    }
+
+    .home h2 {
+        font-size: 1.8rem;
+    }
+
+    .home figure figcaption {
+        font-size: 2.4rem;
+    }
+
+    .home h3 {
+        font-size: 1rem;
     }
 
     .home svg {
@@ -12,7 +37,15 @@
     }
 
     .bride h2, .bride h3 {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
+    }
+
+    .bride .bride_couple li figure figcaption {
+        font-size: 2.2rem;
+    }
+
+    .bride .bride_couple span {
+        font-size: 2.8rem;
     }
 
     .bride i:nth-of-type(1) {
@@ -43,6 +76,18 @@
         padding: 2rem 1.4rem;
     }
 
+    .hadist h2 {
+        font-size: 1.5rem;
+    }
+
+    .hadist p span {
+        font-size: 1rem;
+    }
+
+    .time h2, .time div:nth-of-type(1) div h3 {
+        font-size: 2.2rem;
+    }
+
     .hadist i {
         left: 1.4rem;
         top: 24rem;
@@ -64,6 +109,10 @@
     .galeri {
         margin-top: -6rem;
         padding: 4rem 1.4rem;
+    }
+
+    .galeri .container h2, .galeri div:nth-of-type(2) h2 {
+        font-size: 2.2rem;
     }
 
     .galeri .container {
@@ -128,6 +177,10 @@
     .wishas {
         padding: 1rem 1.4rem 2rem;
         margin-top: -14rem;
+    }
+
+    .wishas div:nth-of-type(1) h2, .wishas div:nth-of-type(2) h2 {
+        font-size: 2.2rem;
     }
 
     .wishas div:nth-of-type(1) > div{
