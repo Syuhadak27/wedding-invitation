@@ -16,7 +16,6 @@
 }
 
 .galeri .container h2, .galeri div:nth-of-type(2) h2 {
-    font-family: var(--sacramento);
     font-size: var(--fontSize-heading-base);
     font-weight: 400;
     padding: 2rem 1rem;

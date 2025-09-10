@@ -2,94 +2,94 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
-            image: './src/assets/images/cowo.png'
+            name: 'Hidayat Khoirul Umam',
+            child: 'Putra Pertama',
+            father: 'Abdul Ghofur',
+            mother: 'Sakdiyah',
+            image: './src/assets/images/cowo.webp'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
-            image: './src/assets/images/cewe.png'
+            name: 'Kuni Afiyah',
+            child: 'Putri Pertama',
+            father: 'Solihin',
+            mother: 'Siti Mukaromah',
+            image: './src/assets/images/cewe.webp'
         },
 
-        couple: './src/assets/images/couple.png'
+        couple: './src/assets/images/couple.webp'
     },
 
     time: {
-        marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
-            hours: {
-                start: '08.00',
-                finish: 'Selesai'
-            }
-        },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'Juni',
+            date: '13',
+            day: 'Jumat',
             hours: {
-                start: '11.00',
+                start: '14.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        marriage: {
+            year: '2025',
+            month: 'Oktober',
+            date: '5',
+            day: 'Minggu',
+            hours: {
+                start: '10.00',
+                finish: 'Selesai'
+            }
+        },
+        address: 'Dusun Sampangan RT07/RW01, Desa Bumirejo, Kec.Kaliangkrik, Kab.Magelang'
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        calendar: 'https://calendar.app.google/dV54At7N8nQJPFsx6',
+        map: 'https://maps.app.goo.gl/i87c25GLoLpTyNC69',
     },
 
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.png'
+            image: './src/assets/images/1.jpg'
         },
         {
             id: 2,
-            image: './src/assets/images/2.png'
+            image: './src/assets/images/2.jpg'
         },
         {
             id: 3,
-            image: './src/assets/images/3.png'
+            image: './src/assets/images/3.jpg'
         },
         {
             id: 4,
-            image: './src/assets/images/4.png'
+            image: './src/assets/images/4.jpg'
         },
         {
             id: 5,
-            image: './src/assets/images/5.png'
+            image: './src/assets/images/5.jpg'
         }
     ],
 
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
-            icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            name: 'Kuni Afiyah',
+            icon: './src/assets/images/bni.png',
+            rekening: '1790710397'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            name: 'Hidayat khoirul umam',
+            icon: './src/assets/images/dana.png',
+            rekening: '087820004195'
         },
     ],
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbwiB9j2eKTCfJ5rvFBJKP2wxK6YATvH8PmgbCWeJaFH6_y3mPkK2YPTLIc2IJs0n7bxMA/exec',
 
     navbar: [
         {
